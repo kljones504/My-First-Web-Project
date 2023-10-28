@@ -42,7 +42,8 @@ Before you begin, ensure that you meet the following criteria:
 3. **Civvies**
 
 ### Current Weekly Routine Orders!
-[Uploading 20231028_141421.jpg…](Sketch)
+### Sketch
+[Uploading 20231028_141421.jpg…]
 
 Improvements
 
