@@ -44,7 +44,7 @@ Before you begin, ensure that you meet the following criteria:
 ### Current Weekly Routine Orders!
 *Picture of schedule*
 
-Improvements
-
 # Sketch
 [Uploading 20231028_141421.jpg…]
+
+Improvements
