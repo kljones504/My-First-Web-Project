@@ -1,2 +1,7 @@
-.title: {font-color:red;
+.title {
+font-variant: small-caps;
+font-weight: bold;
+font-size: 2rem;
+line-height: 1.5;
+font-family: sans-serif;
 }
