@@ -8,7 +8,7 @@ Welcome to the new website for the Army Cadets Corps in Pasadena, NL, Canada. Th
   - [Actvities](#Activities)
   - [Uniforms](#Uniforms)
   - [Schedule](#schedules)
-  - [contact](#Contact Us)
+  - [About Us](#aboutus)
     
 ## About the Corps
 
