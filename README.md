@@ -1,4 +1,4 @@
-# Welcome 2959 Pasadena Lions Royal Canadian Army Cadets Corps
+![20231028_141421](https://github.com/kljones504/My-First-Web-Project/assets/149249182/5d5641be-8a64-4d31-860a-923ba5a76500)# Welcome 2959 Pasadena Lions Royal Canadian Army Cadets Corps
 Welcome to the new website for the Army Cadets Corps in Pasadena, NL, Canada. This file contains the source code and related files for the website, which serves as an essential online platform for our Army Cadets, their families, instructors, and anyone interested in the program. Whether you are a developer, contributor, or just curious about the Corps, this README will provide you with essential information to get started.
 
 ## Table of Contents
@@ -40,7 +40,9 @@ Before you begin, ensure that you meet the following criteria:
 2. **FTUs**
 3. **Civvies**
 
-### Current Weekly Routine Orders
+### Current Weekly Routine Orders!
+[Uploading 20231028_141421.jpg…](Sketch)
+
  *Picture of schedule*
 
 # Sketch
