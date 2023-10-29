@@ -22,7 +22,7 @@ a {
     justify-content: center;
 }
 .logo {display: flex;
-    align-items: center;
+    align-image: center;
     justify-content: center;
     clear: both;
     padding-top: 15px;
