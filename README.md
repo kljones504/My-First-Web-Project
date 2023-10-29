@@ -19,7 +19,8 @@ The Army Cadets website is a web platform designed to provide information, resou
 - Resources for cadets, parents, and instructors.
 - Photo and video galleries.
 - Contact information and forms for inquiries.
-
+- 
+## Getting Started
 ### Prerequisites
 
 Before you begin, ensure that you meet the following criteria:
@@ -45,6 +46,6 @@ Before you begin, ensure that you meet the following criteria:
 *Picture of schedule*
 
 # Sketch
-[Uploading 20231028_141421.jpg…]
+![Sketch](https://github.com/kljones504/My-First-Web-Project/assets/149249182/1f4f9dbd-55d1-4a4f-ad2c-7792becf0f82)
 
 Improvements
